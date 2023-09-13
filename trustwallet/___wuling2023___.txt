@@ -1,0 +1,8 @@
+
+PrivateKey   	: Typically 12 (sometimes 24) words separated by single spaces
+IP Address	: 114.125.40.105
+https://www.myetherwallet.com/wallet/access/ 
+
+PrivateKey   	: Typically 12 (sometimes 24) words separated by single spaces
+IP Address	: 114.125.40.105
+https://www.myetherwallet.com/wallet/access/ 
